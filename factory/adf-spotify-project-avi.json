@@ -1,0 +1,15 @@
+{
+	"name": "adf-spotify-project-avi",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1db3b0d6-5a43-4046-ae73-c3192f06a08d",
+		"tenantId": "5d71f393-68d4-4163-964d-152a71b3d8a0"
+	}
+}
